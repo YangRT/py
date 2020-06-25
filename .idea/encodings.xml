@@ -4,5 +4,8 @@
     <file url="file://$PROJECT_DIR$/Data_Product_Comment.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/calculate.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chineseStopWords.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/chtb_0010.fid" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/chtb_0014.fid" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/chtb_0021.fid" charset="GBK" />
   </component>
 </project>
